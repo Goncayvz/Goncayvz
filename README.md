@@ -8,7 +8,7 @@ Bu proje, **O'LALA Catering Firması** için geliştirilmiş bir web sitesi uygu
 - **Ana Sayfa** → `cateringBaslangıc.php`  
 - **Deneme Sayfası** → `deneme.php`  
 - **Config Dosyası** → `config.php` (admin bilgileri, site ayarları, veritabanı bağlantısı)  
-- **Görseller** → `assets/` klasörü  
+- **Görseller** →  klasörü mevcuttur.
 - **Rapor** → `docs/O'LALA CATERİNG FİRMASI WEBSİTE RAPORU.docx`  
 
 ## ⚙️ Kurulum ve Çalıştırma
